@@ -25,7 +25,7 @@ Esses cursos representam meu compromisso com a aprendizagem contínua e minha bu
   - 
 ### Programação
 
-- [CursoPython 3 - Mundo 1 ](file:///C:/Users/Usu%C3%A1rio/OneDrive/Documentos/CERTIFICADOS/Python-3-Mundo1-40Horas-Certificado-Curso-em-Video.pdf) - Curso em Video
+- [CursoPython 3 - Mundo 1 ](https://drive.google.com/drive/u/0/my-drive) - Curso em Video
   - Concluído em: Novembro de 2022
   - Descrição: Este curso me forneceu uma base sólida em Python, incluindo conceitos de programação, manipulação de dados e criação de aplicativos.
 
