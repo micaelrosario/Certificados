@@ -25,7 +25,7 @@ Esses cursos representam meu compromisso com a aprendizagem contínua e minha bu
   - 
 ### Programação
 
-- [CursoPython 3 - Mundo 1 ](https://drive.google.com/drive/u/0/my-drive) - Curso em Video
+- [CursoPython 3 - Mundo 1 ](https://drive.google.com/file/d/1cLyz3UDl7tIhRKrOafcrdUpJPZ2uIypP/view?usp=drive_link) - Curso em Video
   - Concluído em: Novembro de 2022
   - Descrição: Este curso me forneceu uma base sólida em Python, incluindo conceitos de programação, manipulação de dados e criação de aplicativos.
 
