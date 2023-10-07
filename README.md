@@ -25,7 +25,7 @@ Esses cursos representam meu compromisso com a aprendizagem contínua e minha bu
   - 
 ### Programação
 
-- [CursoPython 3 - Mundo 1 ](https://drive.google.com/file/d/1cLyz3UDl7tIhRKrOafcrdUpJPZ2uIypP/view?usp=drive_link) - Curso em Video
+- [CursoPython 3 - Mundo 1 ](https://doc-0g-20-prod-01-apps-viewer.googleusercontent.com/viewer2/prod-01/pdf/3hujgr19to7iorbc6nfk1es38gt6ri4m/ggo5k855taioas1uv6fj7cl1mvg0g1op/1696683300000/3/101197119040221502907/APznzaZLZ9e82pk8o9qjub5ETq0mwixDbihuBFnE5mtGHA3_qUAx1D6rljZyF2WATbHWZSdPMCOKEijakSFtOZai5Lm5whO7B0AWX63zWsC5mkpOWokp-ETpEZdZSXcsaUPjm8ncDpNJGibNx5t6zUF4988AavfYv2CfaWjG_YwBli7Zo_OBMmhPwwawNWx3M3EISBi3LomQAWXqSPljU0snZj-EmvORVrt6wv1Q6SQ9GOQwkLLNuO5oZUK7SQ7AZGvRckeQXxNAkGRugePfWtfXsg3ssyE2SoqscyQXvevQJvGDqBzX95L1VQAhhRXfAiY0CTA9qmZorOTPZYmAb5yB1Yu2zPyBqAvN0GEmTn7ftUEqvW9zrMh4S8Fec3OWHK6wZaorSUX3Z4JUm-WBCkCppQ_dZAmUa-mPZyFN0IdIg0H502g5sj0=?authuser=0&nonce=ivjb3bi6oqcho&user=101197119040221502907&hash=p569t4s5ss5olcdor8cjom7r0v7e6hv8) - Curso em Video
   - Concluído em: Novembro de 2022
   - Descrição: Este curso me forneceu uma base sólida em Python, incluindo conceitos de programação, manipulação de dados e criação de aplicativos.
 
