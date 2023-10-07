@@ -22,7 +22,7 @@ Esses cursos representam meu compromisso com a aprendizagem contínua e minha bu
   - Concluído em: Dezembro de 2021
   - Descrição: Meu curso em Deep Learning me capacitou a compreender e aplicar redes neurais profundas em tarefas avançadas de reconhecimento de padrões,
     como visão computacional e processamento de linguagem natural.
-  - 
+    
 ### Programação
 
 - [CursoPython 3 - Mundo 1 ](https://drive.google.com/file/d/1cLyz3UDl7tIhRKrOafcrdUpJPZ2uIypP/view?usp=sharing) - Curso em Video
@@ -45,7 +45,7 @@ Esses cursos representam meu compromisso com a aprendizagem contínua e minha bu
 
 - [WorkShop UI Designer e Figma - 8 horas](https://drive.google.com/file/d/1YaEcLe2qAxJ2j-esRUDtuNul1oGGGBF3/view?usp=sharing) - Deploy
   - Concluído em: Novembro de 2022
-    Descrição: Esta certificação comprova minha competência na concepção de interfaces de usuário intuitivas e atraentes. Durante o curso,
+  - Descrição: Esta certificação comprova minha competência na concepção de interfaces de usuário intuitivas e atraentes. Durante o curso,
     adquiri conhecimento aprofundado sobre os princípios de design, usabilidade e experiência do usuário (UX). Além disso, desenvolvi a capacidade
     de criar wireframes, protótipos interativos e designs responsivos que atendem às necessidades dos usuários e dos objetivos de negócios.
 
