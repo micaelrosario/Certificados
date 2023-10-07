@@ -29,7 +29,7 @@ Esses cursos representam meu compromisso com a aprendizagem contínua e minha bu
   - Concluído em: Novembro de 2022
   - Descrição: Este curso me forneceu uma base sólida em Python, incluindo conceitos de programação, manipulação de dados e criação de aplicativos.
 
-- [Curso de Python](file:///C:/Users/Usu%C3%A1rio/OneDrive/Documentos/CERTIFICADOS/SoulAcademy%20-%20Python%20-%2040%20%20horas.pdf) - SoulAcademy
+- [Curso de Python](https://drive.google.com/file/d/1uQYhFeydf9YwgSDzBZlQj4alrw2J9ZLG/view?usp=drive_link) - SoulAcademy
   - Concluído em: Novembro de 2022
   - Descrição: Minha certificação em Python comprova minhas habilidades na linguagem de programação Python. Isso significa que posso escrever código Python eficaz
    para várias aplicações, desde desenvolvimento de software até análise de dados e automação. Estou pronto para contribuir com soluções práticas usando Python em diversos projetos.
